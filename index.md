@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Ms. Wade's NYC CS Certification Portfolio
 
-You can use the [editor on GitHub](https://github.com/awade05/awade05-nycscertweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Courses
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## CSCI 70900 -Programming in high level language
+## CSCI 70300 Data Structures in a high level language
+## SEDC 71900 Methods 1: Advanced Study of Secondary Learning Environments for Teaching Computer Science
 
 ```markdown
 Syntax highlighted code block

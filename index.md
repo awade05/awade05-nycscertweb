@@ -5,7 +5,7 @@
 
 ## CSCI 70900 -Programming in high level language
 - [CGOL](https://github.com/hunter-teacher-cert/cohort-3-summer-work-awade05/blob/master/programming/3/Cgol.java)
-- Super Array
+- [Super Array](https://github.com/hunter-teacher-cert/cohort-3-summer-work-awade05/blob/master/programming/6/sa/SuperArray.java)
 
 ## CSCI 70300 Data Structures in a high level language
 ## SEDC 71900 Methods 1: Advanced Study of Secondary Learning Environments for Teaching Computer Science

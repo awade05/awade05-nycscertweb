@@ -12,6 +12,7 @@
 - [LinkedList](https://github.com/hunter-teacher-cert/cohort-3-summer-work-awade05/blob/master/ds/LinkedLists/LinkedList.java)
 - [Sorting](https://github.com/hunter-teacher-cert/cohort-3-summer-work-awade05/blob/master/ds/Sorting/SortSearch.java)
 ## SEDC 71900 
+- [Scaffold Techniques](https://replit.com/@awade05/cohort-3-summer-work-awade05-2#methods/05_scaffoldtechniques.md)
 
 
 
